@@ -1,6 +1,6 @@
 # country-codes
 
-This template about country codes should help get you started developing with Vue 3 in Vite.
+This template is about country codes should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
